@@ -1,8 +1,8 @@
-# CipherHack - Hacking Text Effect
+# HackAnimation - Hacking Text Effect
 
 A cyberpunk-themed text encryption simulator built with Next.js and Tailwind CSS that simulates the classic "hacking" effect where letters randomly cycle until they match the target text.
 
-![CipherHack Demo](https://github.com/nishanthgandhe/WordOuputNextJs/example.png)
+![HackAnimation Demo](exmaple.png)
 
 ## Features
 
