@@ -2,7 +2,7 @@
 
 A cyberpunk-themed text encryption simulator built with Next.js and Tailwind CSS that simulates the classic "hacking" effect where letters randomly cycle until they match the target text.
 
-![CipherHack Demo](https://github.com/nishanthgandhe/WordOuputNextJs/)
+![CipherHack Demo](https://github.com/nishanthgandhe/WordOuputNextJs/example.png)
 
 ## Features
 
